@@ -2,9 +2,6 @@ DemoApp::Application.routes.draw do
   resources :microposts
 
 
-  resources :m_icroposts
-
-
   resources :users
 
 
