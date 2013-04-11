@@ -1,4 +1,7 @@
 DemoApp::Application.routes.draw do
+  resources :m_icroposts
+
+
   resources :users
 
 
